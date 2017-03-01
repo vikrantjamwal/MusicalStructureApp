@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+    <string name="label_currently">Currently Playing</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="playlists">Playlists</string>
+    <string name="main_text">This is the main activity of the app. It shows the list of songs to the user. From here the user can open the currently playing song and playlists activity.</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="currently_text">This activity shows the currently playing song.</string>
+    <string name="playlist_text">This activity shows the playlists of songs.</string>
+</resources>
