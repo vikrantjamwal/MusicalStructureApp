@@ -2,15 +2,15 @@ Musical Structure App
 ====
 
 ### Project Overview
-This project is a chance for you to combine and practice everything you learned in this section of the Nanodegree program. You will be making the structure of a music app using intents and empty activities.
+In this project the goal is to design and create the structure of a Music app which would allow a user to play audio files.
 
-The goal is to design and create the structure of a Music app which would allow a user to play audio files. 
+Note:- This project contains the structure of a music app created using intents and empty activities.
 
 ### Why this project?
-In the most recent portion of the Nanodegree program, you learned how to think about the structure of an app and how to use OnClickListeners and explicit Intents to link between different activities within your own app.
+This project teaches about the structure of an app and how to use OnClickListeners and explicit Intents to link between different activities within the app.
 
 ### What will I learn?
-This project is about combining various ideas and skills we’ve been practicing throughout the course. They include:
+This project is about combining various ideas and skills. They include:
 
 * Designing an app experience to achieve a certain goal
 * Creating new activities
